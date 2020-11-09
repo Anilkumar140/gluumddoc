@@ -1,5 +1,9 @@
 [Gluu and gluu-gateway Installation with couchbase in EKS kubernetes cluster:]{.ul}
 ===================================================================================
+<p align="center">
+  <img src="https://th.bing.com/th/id/OIP.i3OBmrev5-nh5Ng2Vf41UgHaDH?w=311&h=147&c=7&o=5&dpr=1.5&pid=1.7" title="hover text">
+  <img https://th.bing.com/th/id/OIP.i3OBmrev5-nh5Ng2Vf41UgHaDH?w=311&h=147&c=7&o=5&dpr=1.5&pid=1.7" width="350" alt="accessibility text">
+</p>
 
 **[EKS Cluster Details:]{.ul}**
 
